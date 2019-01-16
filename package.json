@@ -1,0 +1,46 @@
+{
+  "_args": [
+    [
+      "git+https://gitlab.intecracy.com/LabArchives/sketch-editor.git",
+      "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives"
+    ]
+  ],
+  "_from": "git+https://gitlab.intecracy.com/LabArchives/sketch-editor.git",
+  "_id": "sketch-editor@git+https://gitlab.intecracy.com/LabArchives/sketch-editor.git#b01a261e0a2971ee01f9ab736bd17410c8eb6281",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/sketch-editor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://gitlab.intecracy.com/LabArchives/sketch-editor.git",
+    "rawSpec": "git+https://gitlab.intecracy.com/LabArchives/sketch-editor.git",
+    "saveSpec": "git+https://gitlab.intecracy.com/LabArchives/sketch-editor.git",
+    "fetchSpec": "https://gitlab.intecracy.com/LabArchives/sketch-editor.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://gitlab.intecracy.com/LabArchives/sketch-editor.git#b01a261e0a2971ee01f9ab736bd17410c8eb6281",
+  "_spec": "git+https://gitlab.intecracy.com/LabArchives/sketch-editor.git",
+  "_where": "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives",
+  "dependencies": {
+    "shelljs": "0.7.7"
+  },
+  "description": "Basic React Native touch based sketch editor supporting iOS and Android",
+  "devDependencies": {},
+  "license": "MIT",
+  "main": "index.js",
+  "name": "sketch-editor",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": "^0.42.0"
+  },
+  "rnpm": {
+    "commands": {
+      "prelink": "node ./node_modules/sketch-editor/scripts/prelink.js"
+    }
+  },
+  "version": "1.0.2"
+}

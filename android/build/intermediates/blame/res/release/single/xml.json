@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/oleksiikolomatskiy/Documents/Project/labarchives_new_router/LabArchives/node_modules/sketch-editor/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/oleksiikolomatskiy/.android/build-cache/af6a0a4571a919062a1cfbfea7289a771f9b883d/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/opengeek/Downloads/TestSketch/node_modules/react-native-sketch-view/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/opengeek/Downloads/TestSketch/node_modules/react-native-sketch-view/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.2/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/opengeek/Downloads/drawSketch/Sketcher/node_modules/react-native-sketch-view/android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/opengeek/Downloads/drawSketch/Sketcher/node_modules/react-native-sketch-view/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.3/res/xml/preferences.xml"
+    }
+]
